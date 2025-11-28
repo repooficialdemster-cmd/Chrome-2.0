@@ -5,10 +5,10 @@ Un bot basado en el operador de android Chrome
 
 > Creador del bot
 
-🔶 WILKERSON/S
+> 🔶 WILKERSON/S
 
-COLABORADORES OFICIALES
+> COLABORADORES OFICIALES
 
-🔶 Damian_yt
+> 🔶 Damian_yt
 
-BOT EN DESARROLLO 
+> BOT EN DESARROLLO 
