@@ -1,5 +1,5 @@
 {
-  "name": "azura-ultra-2.0-bot",
+  "name": "Chrome-Bot",
   "version": "1.0.0-personalizado",
   "description": "Bot de WhatsApp con Baileys",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "code": "node index.js code",
     "dev": "nodemon index.js"
   },
-  "author": "Russell",
+  "author": "wilker",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "github:Ado21/bly",
